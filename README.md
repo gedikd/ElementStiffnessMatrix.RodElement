@@ -14,3 +14,7 @@ You can use `input` files to use these functions for your own problems.
 
 
 [GitHub Repository](https://github.com/gedikd/ElementStiffnessMatrix.RodElement)
+
+
+## Copyright
+This project is developed and maintained by Dogukan Gedik. All rights reserved.
