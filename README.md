@@ -11,3 +11,6 @@ The report is located in the `rodFEM.gedikd.pdf ` file.
 Related functions are `rod_element_stiffness_2node.m` and `rod_element_stiffness_3node.m`
 
 You can use `input` files to use these functions for your own problems. 
+
+
+[GitHub Repository](https://github.com/gedikd/ElementStiffnessMatrix.RodElement)
